@@ -1,0 +1,1281 @@
+﻿[
+    {
+        "id": "likee",
+        "name": "Likee",
+        "nameAr": "لايكي",
+        "icon": "imgs/likee.png",
+        "description": "اشحن ماسات لايكي بسهولة وأمان",
+        "type": "program",
+        "packages": [
+            {
+                "amount": "50 ماسة",
+                "priceYER": 550
+            },
+            {
+                "amount": "100 ماسة",
+                "priceYER": 1100
+            },
+            {
+                "amount": "150 ماسة",
+                "priceYER": 1600
+            },
+            {
+                "amount": "200 ماسة",
+                "priceYER": 2150
+            },
+            {
+                "amount": "250 ماسة",
+                "priceYER": 2650
+            },
+            {
+                "amount": "300 ماسة",
+                "priceYER": 3200
+            },
+            {
+                "amount": "400 ماسة",
+                "priceYER": 4250
+            },
+            {
+                "amount": "500 ماسة",
+                "priceYER": 5300
+            },
+            {
+                "amount": "600 ماسة",
+                "priceYER": 6400
+            },
+            {
+                "amount": "650 ماسة",
+                "priceYER": 6900
+            },
+            {
+                "amount": "750 ماسة",
+                "priceYER": 7950
+            },
+            {
+                "amount": "900 ماسة",
+                "priceYER": 9550
+            },
+            {
+                "amount": "1,000 ماسة",
+                "priceYER": 10600
+            },
+            {
+                "amount": "1,150 ماسة",
+                "priceYER": 12200
+            },
+            {
+                "amount": "1,300 ماسة",
+                "priceYER": 13800
+            },
+            {
+                "amount": "1,500 ماسة",
+                "priceYER": 15900
+            },
+            {
+                "amount": "2,000 ماسة",
+                "priceYER": 21200
+            },
+            {
+                "amount": "2,300 ماسة",
+                "priceYER": 24400
+            },
+            {
+                "amount": "2,500 ماسة",
+                "priceYER": 26500
+            },
+            {
+                "amount": "3,000 ماسة",
+                "priceYER": 31800
+            },
+            {
+                "amount": "4,000 ماسة",
+                "priceYER": 42400
+            },
+            {
+                "amount": "5,000 ماسة",
+                "priceYER": 53000
+            },
+            {
+                "amount": "6,500 ماسة",
+                "priceYER": 68900
+            },
+            {
+                "amount": "8,000 ماسة",
+                "priceYER": 84800
+            },
+            {
+                "amount": "10,000 ماسة",
+                "priceYER": 106000
+            },
+            {
+                "amount": "20,000 ماسة",
+                "priceYER": 211900
+            },
+            {
+                "amount": "30,000 ماسة",
+                "priceYER": 317850
+            }
+        ]
+    },
+            {
+        "id": "super_meet",
+        "name": "Super Meet",
+        "nameAr": "سوبر ميت",
+        "icon": "imgs/supermeet.png",
+        "description": "اكتشف أصدقاء جدد حول العالم واشحن عملات سوبر ميت (Super Meet) الآن، لتتمكن من إجراء المكالمات المرئية والصوتية وإرسال الهدايا المميزة في غرف الدردشة.",
+        "type": "program",
+        "packages": [
+            {
+                "amount": "6000 ماسة",
+                "priceYER": 550
+            },
+            {
+                "amount": "12,000 ماسة",   
+                "priceYER": 1100
+            },
+            {
+                "amount": "24,000 ماسة",
+                "priceYER": 2200
+            },
+            {
+                "amount": "48,000 ماسة",
+                "priceYER": 4400
+            },
+            {
+                "amount": "96,000 ماسة",
+                "priceYER": 8800
+            },
+            {
+                "amount": "192,000 ماسة",
+                "priceYER": 17700
+            }
+        ]
+    },
+    {
+        "id": "bigo",
+        "name": "Bigo Live",
+        "nameAr": "بيجو لايف",
+        "icon": "imgs/bigo.png",
+        "description": "ادعم المذيعين المفضلين لديك واشحن ألماس بيجو لايف (Bigo Live) الآن لفتح الهدايا الحصرية والمؤثرات الخاصة داخل البث المباشر.",
+        "type": "program",
+        "packages": [
+            {
+                "amount": "50 ماسة",
+                "priceYER": 550
+            },
+            {
+                "amount": "100 ماسة",
+                "priceYER": 1100
+            },
+            {
+                "amount": "200 ماسة",
+                "priceYER": 2200
+            },
+            {
+                "amount": "250 ماسة",
+                "priceYER": 3750
+            },
+            {
+                "amount": "300 ماسة",
+                "priceYER": 3300
+            },
+            {
+                "amount": "500 ماسة",
+                "priceYER": 5500
+            },
+            {
+                "amount": "800 ماسة",
+                "priceYER": 8800
+            },
+            {
+                "amount": "1,000 ماسة",
+                "priceYER": 11000
+            },
+            {
+                "amount": "1,300 ماسة",
+                "priceYER": 14300
+            },
+            {
+                "amount": "2,500 ماسة",
+                "priceYER": 27450
+            },
+            {
+                "amount": "3,000 ماسة",
+                "priceYER": 32950
+            },
+            {
+                "amount": "5,000 ماسة",
+                "priceYER": 54900
+            },
+            {
+                "amount": "10,000 ماسة",
+                "priceYER": 109800
+            }
+        ]
+    },
+    {
+        "id": "yoyo",
+        "name": "Yoyo",
+        "nameAr": "يويو",
+        "icon": "imgs/yoyo.png",
+        "description": "اشحن كونزات يويو بسهولة وأمان",
+        "type": "program",
+        "packages": [
+            {
+                "amount": "1,000 كونزه",
+                "priceYER": 450
+            },
+            {
+                "amount": "1,500 كونزه",
+                "priceYER": 700
+            },
+            {
+                "amount": "2,000 كونزه",
+                "priceYER": 900
+            },
+            {
+                "amount": "3,000 كونزه",
+                "priceYER": 1350
+            },
+            {
+                "amount": "4,000 كونزه",
+                "priceYER": 1800
+            },
+            {
+                "amount": "5,000 كونزه",
+                "priceYER": 2250
+            },
+            {
+                "amount": "5,150 كونزه",
+                "priceYER": 2300
+            },
+            {
+                "amount": "10,000 كونزه",
+                "priceYER": 4470
+            },
+            {
+                "amount": "10,300 كونزه",
+                "priceYER": 4600
+            },
+            {
+                "amount": "12,300 كونزه",
+                "priceYER": 5500
+            },
+            {
+                "amount": "14,200 كونزه",
+                "priceYER": 6350
+            },
+            {
+                "amount": "20,000 كونزه",
+                "priceYER": 8950
+            },
+            {
+                "amount": "30,000 كونزه",
+                "priceYER": 13400
+            },
+            {
+                "amount": "40,000 كونزه",
+                "priceYER": 17850
+            },
+            {
+                "amount": "41,080 كونزه",
+                "priceYER": 18350
+            },
+            {
+                "amount": "50,000 كونزه",
+                "priceYER": 22300
+            },
+            {
+                "amount": "100,000 كونزه",
+                "priceYER": 44600
+            },
+            {
+                "amount": "164,680 كونزه",
+                "priceYER": 73450
+            },
+            {
+                "amount": "200,000 كونزه",
+                "priceYER": 89200
+            },
+            {
+                "amount": "300,000 كونزه",
+                "priceYER": 133780
+            },
+            {
+                "amount": "307,180 كونزه",
+                "priceYER": 136980
+            },
+            {
+                "amount": "400,000 كونزه",
+                "priceYER": 178350
+            },
+            {
+                "amount": "500,000 كونزه",
+                "priceYER": 222950
+            }
+        ]
+    },
+    {
+        "id": "jawaker",
+        "name": "Jawaker",
+        "nameAr": "جواكر",
+        "icon": "imgs/jawaker.png",
+        "description": "اشحن توكنز جواكر بسهولة وأمان واستمتع باللعب مع أصدقائك",
+        "type": "program",
+        "packages": [
+            {
+                "amount": "10,000 كونزه",
+                "priceYER": 650
+            },
+            {
+                "amount": "20,000 كونزه",
+                "priceYER": 1300
+            },
+            {
+                "amount": "30,000 كونزه",
+                "priceYER": 1950
+            },
+            {
+                "amount": "32,500 كونزه",
+                "priceYER": 2150
+            },
+            {
+                "amount": "40,000 كونزه",
+                "priceYER": 2600
+            },
+            {
+                "amount": "50,000 كونزه",
+                "priceYER": 3250
+            },
+            {
+                "amount": "70,000 كونزه",
+                "priceYER": 4550
+            },
+            {
+                "amount": "100,000 كونزه",
+                "priceYER": 6500
+            },
+            {
+                "amount": "150,000 كونزه",
+                "priceYER": 9750
+            },
+            {
+                "amount": "230,000 كونزه",
+                "priceYER": 14950
+            },
+            {
+                "amount": "400,000 كونزه",
+                "priceYER": 25950
+            },
+            {
+                "amount": "525,000 كونزه",
+                "priceYER": 34050
+            },
+            {
+                "amount": "825,000 كونزه",
+                "priceYER": 53500
+            }
+        ]
+    },
+    {
+        "id": "toptop",
+        "name": "TopTop",
+        "nameAr": "توب توب",
+        "icon": "imgs/toptop.png",
+        "description": "استمتع بألعاب لودو والدومينو مع أصدقائك واشحن ماس توب توب (TopTop) الآن للحصول على الهدايا وتطوير حسابك في غرف الدردشة.",
+        "type": "program",
+        "packages": [
+            {
+                "amount": "10,000 كونزه",
+                "priceYER": 640
+            },
+            {
+                "amount": "20,000 كونزه",
+                "priceYER": 1280
+            },
+            {
+                "amount": "30,000 كونزه",
+                "priceYER": 1920
+            },
+            {
+                "amount": "40,000 كونزه",
+                "priceYER": 2560
+            },
+            {
+                "amount": "50,000 كونزه",
+                "priceYER": 3200
+            },
+            {
+                "amount": "100,000 كونزه",
+                "priceYER": 6400
+            },
+            {
+                "amount": "200,000 كونزه",
+                "priceYER": 12800
+            },
+            {
+                "amount": "300,000 كونزه",
+                "priceYER": 19200
+            },
+            {
+                "amount": "400,000 كونزه",
+                "priceYER": 25600
+            },
+            {
+                "amount": "500,000 كونزه",
+                "priceYER": 32000
+            },
+            {
+                "amount": "1,000,000 كونزه",
+                "priceYER": 64000
+            }
+        ]
+    },
+    {
+        "id": "haya",
+        "name": "Haya",
+        "nameAr": "هيا",
+        "icon": "imgs/haya.png",
+        "description": "استمتع بأفضل غرف الدردشة الصوتية واشحن عملات تطبيق هيا (Haya) الآن لتتمكن من إرسال الهدايا المميزة وتطوير حسابك والتفاعل مع أصدقائك.",
+        "type": "program",
+        "packages": [
+            {
+                "amount": "1,000 كونزه",
+                "priceYER": 650
+            },
+            {
+                "amount": "2,000 كونزه",
+                "priceYER": 1300
+            },
+            {
+                "amount": "3,000 كونزه",
+                "priceYER": 1950
+            },
+            {
+                "amount": "4,000 كونزه",
+                "priceYER": 2600
+            },
+            {
+                "amount": "5,000 كونزه",
+                "priceYER": 3250
+            },
+            {
+                "amount": "10,000 كونزه",
+                "priceYER": 6500
+            },
+            {
+                "amount": "20,000 كونزه",
+                "priceYER": 13000
+            },
+            {
+                "amount": "30,000 كونزه",
+                "priceYER": 19500
+            },
+            {
+                "amount": "40,000 كونزه",
+                "priceYER": 26000
+            },
+            {
+                "amount": "50,000 كونزه",
+                "priceYER": 32500
+            },
+            {
+                "amount": "100,000 كونزه",
+                "priceYER": 65000
+            },
+            {
+                "amount": "200,000 كونزه",
+                "priceYER": 130000
+            },
+            {
+                "amount": "300,000 كونزه",
+                "priceYER": 195000
+            }
+        ]
+    },
+    {
+        "id": "saba",
+        "name": "Saba Chat",
+        "nameAr": "صبا",
+        "icon": "imgs/saba.png",
+        "description": "انضم إلى غرف الدردشة في تطبيق صبا واشحن الذهب الآن لتبادل الهدايا الفاخرة وتعزيز مستوى حسابك بين أصدقائك.",
+        "type": "program",
+        "packages": [
+            {
+                "amount": "10,000 ذهب",
+                "priceYER": 700
+            },
+            {
+                "amount": "20,000 ذهب",
+                "priceYER": 1400
+            },
+            {
+                "amount": "50,000 ذهب",
+                "priceYER": 3450
+            },
+            {
+                "amount": "100,000 ذهب",
+                "priceYER": 6900
+            },
+            {
+                "amount": "200,000 ذهب",
+                "priceYER": 13800
+            },
+            {
+                "amount": "500,000 ذهب",
+                "priceYER": 34500
+            },
+            {
+                "amount": "1,000,000 ذهب",
+                "priceYER": 69000
+            }
+        ]
+    },
+    {
+        "id": "party_star",
+        "name": "Party Star",
+        "nameAr": "بارتي ستار",
+        "icon": "imgs/partystar.png",
+        "description": "اختر الفئة المناسبة لك واشحن جواهر بارتي ستار بسهولة وأمان",
+        "type": "program",
+        "packages": [
+            {
+                "amount": "1,500 ماسة",
+                "priceYER": 950
+            },
+            {
+                "amount": "2,000 ماسة",
+                "priceYER": 1250
+            },
+            {
+                "amount": "3,000 ماسة",
+                "priceYER": 1850
+            },
+            {
+                "amount": "4,000 ماسة",
+                "priceYER": 2450
+            },
+            {
+                "amount": "5,000 ماسة",
+                "priceYER": 3100
+            },
+            {
+                "amount": "10,000 ماسة",
+                "priceYER": 6150
+            },
+            {
+                "amount": "20,000 ماسة",
+                "priceYER": 12250
+            },
+            {
+                "amount": "30,000 ماسة",
+                "priceYER": 18350
+            },
+            {
+                "amount": "40,000 ماسة",
+                "priceYER": 24500
+            },
+            {
+                "amount": "50,000 ماسة",
+                "priceYER": 30600
+            },
+            {
+                "amount": "100,000 ماسة",
+                "priceYER": 61150
+            },
+            {
+                "amount": "200,000 ماسة",
+                "priceYER": 122300
+            },
+            {
+                "amount": "300,000 ماسة",
+                "priceYER": 183450
+            },
+            {
+                "amount": "400,000 ماسة",
+                "priceYER": 244550
+            },
+            {
+                "amount": "500,000 ماسة",
+                "priceYER": 305700
+            }
+        ]
+    },
+    {
+        "id": "habi",
+        "name": "Habi",
+        "nameAr": "هبي",
+        "icon": "imgs/habi.png",
+        "description": "استمتع بمجتمع هبي (Habi) التفاعلي، واشحن العملات الآن لفتح ميزات حصرية وإرسال الهدايا المميزة في البث المباشر.",
+        "type": "program",
+        "packages": [
+            {
+                "amount": "10,000 كونزه",
+                "priceYER": 650
+            },
+            {
+                "amount": "20,000 كونزه",
+                "priceYER": 1300
+            },
+            {
+                "amount": "30,000 كونزه",
+                "priceYER": 1950
+            },
+            {
+                "amount": "40,000 كونزه",
+                "priceYER": 2550
+            },
+            {
+                "amount": "50,000 كونزه",
+                "priceYER": 3200
+            },
+            {
+                "amount": "100,000 كونزه",
+                "priceYER": 6350
+            },
+            {
+                "amount": "200,000 كونزه",
+                "priceYER": 12700
+            },
+            {
+                "amount": "300,000 كونزه",
+                "priceYER": 19000
+            },
+            {
+                "amount": "400,000 كونزه",
+                "priceYER": 25350
+            },
+            {
+                "amount": "500,000 كونزه",
+                "priceYER": 31700
+            },
+            {
+                "amount": "1,000,000 كونزه",
+                "priceYER": 63350
+            },
+            {
+                "amount": "2,000,000 كونزه",
+                "priceYER": 126650
+            }
+        ]
+    },
+    {
+        "id": "majlis",
+        "name": "Majlis",
+        "nameAr": "مجلس",
+        "icon": "imgs/majlis.png",
+        "description": "انضم إلى أجمل المجالس العربية واشحن عملات تطبيق مجلس (Majlis) الآن لتتمكن من إرسال الهدايا الفاخرة وتطوير غرفتك الصوتية.",
+        "type": "program",
+        "packages": [
+            {
+                "amount": "1,000 كونزه",
+                "priceYER": 670
+            },
+            {
+                "amount": "2,000 كونزه",
+                "priceYER": 1320
+            },
+            {
+                "amount": "3,000 كونزه",
+                "priceYER": 1980
+            },
+            {
+                "amount": "4,000 كونزه",
+                "priceYER": 2630
+            },
+            {
+                "amount": "5,000 كونزه",
+                "priceYER": 3300
+            },
+            {
+                "amount": "10,000 كونزه",
+                "priceYER": 6550
+            },
+            {
+                "amount": "22,000 كونزه",
+                "priceYER": 14370
+            },
+            {
+                "amount": "44,000 كونزه",
+                "priceYER": 28700
+            },
+            {
+                "amount": "66,000 كونزه",
+                "priceYER": 43100
+            },
+            {
+                "amount": "88,000 كونزه",
+                "priceYER": 57400
+            },
+            {
+                "amount": "110,000 كونزه",
+                "priceYER": 71750
+            },
+            {
+                "amount": "220,000 كونزه",
+                "priceYER": 143500
+            }
+        ]
+    },
+    {
+        "id": "xena_live",
+        "name": "Xena Live",
+        "nameAr": "زينا لايف",
+        "icon": "imgs/xenalive.png",
+        "description": "استمتع بتجربة بث مباشر فريدة واشحن مجوهرات زينا لايف (Xena Live) الآن لدعم المذيعين المفضلين لديك وإرسال الهدايا الفاخرة في غرف الدردشة.",
+        "type": "program",
+        "packages": [
+            {
+                "amount": "10,000 كونزه",
+                "priceYER": 650
+            },
+            {
+                "amount": "20,000 كونزه",
+                "priceYER": 1300
+            },
+            {
+                "amount": "30,000 كونزه",
+                "priceYER": 1900
+            },
+            {
+                "amount": "50,000 كونزه",
+                "priceYER": 3150
+            },
+            {
+                "amount": "100,000 كونزه",
+                "priceYER": 6300
+            },
+            {
+                "amount": "200,000 كونزه",
+                "priceYER": 12600
+            },
+            {
+                "amount": "300,000 كونزه",
+                "priceYER": 18900
+            },
+            {
+                "amount": "500,000 كونزه",
+                "priceYER": 31500
+            },
+            {
+                "amount": "1,000,000 كونزه",
+                "priceYER": 63000
+            },
+            {
+                "amount": "2,000,000 كونزه",
+                "priceYER": 126000
+            }
+        ]
+    },
+    {
+        "id": "coco",
+        "name": "Coco",
+        "nameAr": "كوكو",
+        "icon": "imgs/coco.png",
+        "description": "انضم إلى مجتمع كوكو (Coco) العالمي واشحن العملات الآن لتستمتع بأجمل غرف الدردشة الصوتية، وإرسال الهدايا المميزة، وتكوين صداقات جديدة من كل مكان.",
+        "type": "program",
+        "packages": [
+            {
+                "amount": "5,000 ماسة",
+                "priceYER": 300
+            },
+            {
+                "amount": "10,000 ماسة",
+                "priceYER": 600
+            },
+            {
+                "amount": "15,000 ماسة",
+                "priceYER": 900
+            },
+            {
+                "amount": "20,000 ماسة",
+                "priceYER": 1200
+            },
+            {
+                "amount": "30,000 ماسة",
+                "priceYER": 1800
+            },
+            {
+                "amount": "50,000 ماسة",
+                "priceYER": 3000
+            },
+            {
+                "amount": "100,000 ماسة",
+                "priceYER": 6000
+            },
+            {
+                "amount": "200,000 ماسة",
+                "priceYER": 12000
+            },
+            {
+                "amount": "300,000 ماسة",
+                "priceYER": 17950
+            },
+            {
+                "amount": "400,000 ماسة",
+                "priceYER": 23950
+            },
+            {
+                "amount": "500,000 ماسة",
+                "priceYER": 29900
+            },
+            {
+                "amount": "1,000,000 ماسة",
+                "priceYER": 59800
+            },
+            {
+                "amount": "2,000,000 ماسة",
+                "priceYER": 119600
+            }
+        ]
+    },
+    {
+        "id": "soyo",
+        "name": "Soyo",
+        "nameAr": "سويو",
+        "icon": "imgs/soyo.png",
+        "description": "انطلق في عالم المتعة والترفيه واشحن ذهب تطبيق سويو (Soyo) الآن لفتح ميزات الدردشة الصوتية وإرسال الهدايا المميزة لأصدقائك.",
+        "type": "program",
+        "packages": [
+            {
+                "amount": "2,000 كونزه",
+                "priceYER": 1150
+            },
+            {
+                "amount": "5,000 كونزه",
+                "priceYER": 2850
+            },
+            {
+                "amount": "10,000 كونزه",
+                "priceYER": 5700
+            },
+            {
+                "amount": "20,000 كونزه",
+                "priceYER": 11350
+            },
+            {
+                "amount": "50,000 كونزه",
+                "priceYER": 28350
+            },
+            {
+                "amount": "100,000 كونزه",
+                "priceYER": 56650
+            },
+            {
+                "amount": "150,000 كونزه",
+                "priceYER": 84950
+            },
+            {
+                "amount": "300,000 كونزه",
+                "priceYER": 169900
+            }
+        ]
+    },
+    {
+        "id": "pubg_mobile",
+        "name": "PUBG Mobile",
+        "nameAr": "ببجي موبايل",
+        "icon": "imgs/pubgmobile.png",
+        "description": "اختر الفئة المناسبة لك واشحن UC ببجي موبايل بسهولة وأمان",
+        "type": "game",
+        "packages": [
+            {
+                "amount": "10 UC",
+                "priceYER": 200
+            },
+            {
+                "amount": "60 UC",
+                "priceYER": 500
+            },
+            {
+                "amount": "325 UC",
+                "priceYER": 2450
+            },
+            {
+                "amount": "385 UC",
+                "priceYER": 2900
+            },
+            {
+                "amount": "660 UC",
+                "priceYER": 4850
+            },
+            {
+                "amount": "720 UC",
+                "priceYER": 5300
+            },
+            {
+                "amount": "1,800 UC",
+                "priceYER": 12050
+            },
+            {
+                "amount": "3,850 UC",
+                "priceYER": 24100
+            },
+            {
+                "amount": "8,100 UC",
+                "priceYER": 48150
+            },
+            {
+                "amount": "8,400 UC",
+                "priceYER": 50550
+            },
+            {
+                "amount": "11,950 UC",
+                "priceYER": 72200
+            },
+            {
+                "amount": "16,200 UC",
+                "priceYER": 96250
+            },
+            {
+                "amount": "24,300 UC",
+                "priceYER": 145350
+            },
+            {
+                "amount": "32,400 UC",
+                "priceYER": 192500
+            }
+        ]
+    },
+    {
+        "id": "free_fire",
+        "name": "Free Fire",
+        "nameAr": "فري فاير",
+        "icon": "imgs/freefire.png",
+        "description": "اختر الفئة المناسبة لك واشحن جواهر فري فاير (Free Fire) بسرعة وأمان، وابدأ بتطوير حسابك الآن.",
+        "type": "game",
+        "packages": [
+            {
+                "amount": "100 جوهرة",
+                "priceYER": 550
+            },
+            {
+                "amount": "210 جوهرة",
+                "priceYER": 1100
+            },
+            {
+                "amount": "520 جوهرة",
+                "priceYER": 2650
+            },
+            {
+                "amount": "1,060 جوهرة",
+                "priceYER": 5300
+            },
+            {
+                "amount": "2,180 جوهرة",
+                "priceYER": 10550
+            }
+        ]
+    },
+    {
+        "id": "yalla_ludo",
+        "name": "Yalla Ludo",
+        "nameAr": "يلا لودو",
+        "icon": "imgs/yallaludo.png",
+        "description": "اشحن جواهر وكاش يلا لودو (Yalla Ludo) الآن لتستمتع بأقوى غرف الدردشة الصوتية، واحصل على الميزات الحصرية للهدايا والترفيه مع أصدقائك.",
+        "type": "game",
+        "packages": [
+            {
+                "amount": "830 ماسة",
+                "priceYER": 1250
+            },
+            {
+                "amount": "2,320 ماسة",
+                "priceYER": 3000
+            },
+            {
+                "amount": "5,150 ماسة",
+                "priceYER": 6100
+            },
+            {
+                "amount": "13,580 ماسة",
+                "priceYER": 15150
+            },
+            {
+                "amount": "27,640 ماسة",
+                "priceYER": 30100
+            },
+            {
+                "amount": "55,800 ماسة",
+                "priceYER": 60550
+            },
+            {
+                "amount": "68,500 قطعة ذهبية",
+                "priceYER": 1150
+            },
+            {
+                "amount": "223,700 قطعة ذهبية",
+                "priceYER": 2900
+            },
+            {
+                "amount": "1,463,320 قطعة ذهبية",
+                "priceYER": 5750
+            },
+            {
+                "amount": "3,666,470 قطعة ذهبية",
+                "priceYER": 14100
+            },
+            {
+                "amount": "9,973,990 قطعة ذهبية",
+                "priceYER": 30100
+            },
+            {
+                "amount": "25,236,460 قطعة ذهبية",
+                "priceYER": 65900
+            }
+        ]
+    },
+    {
+        "id": "mobile_legends",
+        "name": "Mobile Legends",
+        "nameAr": "موبايل ليجندز",
+        "icon": "imgs/mobilelegends.png",
+        "description": "احصل على الأفضلية في أرض الفجر واشحن مجوهرات موبايل ليجندز (Mobile Legends) لفتح أحدث الأبطال والمظاهر الحصرية بسرعة وسهولة.",
+        "type": "game",
+        "packages": [
+            {
+                "amount": "55 جوهرة",
+                "priceYER": 500
+            },
+            {
+                "amount": "275 جوهرة",
+                "priceYER": 2550
+            },
+            {
+                "amount": "565 جوهرة",
+                "priceYER": 5050
+            },
+            {
+                "amount": "1,160 جوهرة",
+                "priceYER": 10050
+            },
+            {
+                "amount": "1,770 جوهرة",
+                "priceYER": 15050
+            },
+            {
+                "amount": "2,975 جوهرة",
+                "priceYER": 25050
+            },
+            {
+                "amount": "4,165 جوهرة",
+                "priceYER": 35050
+            },
+            {
+                "amount": "6,000 جوهرة",
+                "priceYER": 50100
+            }
+        ]
+    },
+    {
+        "id": "8_ball_pool",
+        "name": "8 Ball Pool",
+        "nameAr": "بلياردو",
+        "icon": "imgs/8ballpool.png",
+        "description": "نافس محترفي البلياردو حول العالم واشحن كاش وعملات 8 Ball Pool الآن، لفتح أقوى العصي الأسطورية والسيطرة على طاولات اللعب العالمية.",
+        "type": "game",
+        "packages": [
+            {
+                "amount": "كاش 20$",
+                "priceYER": 1350
+            },
+            {
+                "amount": "كاش 50$",
+                "priceYER": 2750
+            },
+            {
+                "amount": "كاش 110$",
+                "priceYER": 4750
+            },
+            {
+                "amount": "كاش 250$",
+                "priceYER": 8800
+            },
+            {
+                "amount": "كاش 800$",
+                "priceYER": 23700
+            },
+            {
+                "amount": "كاش 2,000$",
+                "priceYER": 47350
+            },
+            {
+                "amount": "20,000 عملة ذهبية",
+                "priceYER": 1350
+            },
+            {
+                "amount": "52,000 عملة ذهبية",
+                "priceYER": 2750
+            },
+            {
+                "amount": "112,000 عملة ذهبية",
+                "priceYER": 4750
+            },
+            {
+                "amount": "256,000 عملة ذهبية",
+                "priceYER": 8800
+            },
+            {
+                "amount": "800,000 عملة ذهبية",
+                "priceYER": 23700
+            },
+            {
+                "amount": "2,000,000 عملة ذهبية",
+                "priceYER": 47350
+            },
+            {
+                "amount": "قولدن سبن",
+                "priceYER": 70
+            },
+            {
+                "amount": "3 قولدن شوت",
+                "priceYER": 1350
+            },
+            {
+                "amount": "5 سكراتشر",
+                "priceYER": 1350
+            },
+            {
+                "amount": "15 سكراتشر",
+                "priceYER": 3400
+            },
+            {
+                "amount": "بول كودا باندل",
+                "priceYER": 3400
+            }
+        ]
+    },
+    {
+        "id": "lords_mobile",
+        "name": "Lords Mobile",
+        "nameAr": "لوردز موبايل",
+        "icon": "imgs/lordsmobile.png",
+        "description": "قم بتقوية مملكتك وتطوير أبطالك بشحن مجوهرات لوردس موبايل (Lords Mobile) فوراً، وكن القائد الأقوى في المعركة.",
+        "type": "game",
+        "packages": [
+            {
+                "amount": "195 ماسة",
+                "priceYER": 1150
+            },
+            {
+                "amount": "395 ماسة",
+                "priceYER": 2300
+            },
+            {
+                "amount": "785 ماسة",
+                "priceYER": 4600
+            },
+            {
+                "amount": "1,179 ماسة",
+                "priceYER": 8150
+            },
+            {
+                "amount": "1,964 ماسة",
+                "priceYER": 13550
+            },
+            {
+                "amount": "3,928 ماسة",
+                "priceYER": 27050
+            },
+            {
+                "amount": "7,857 ماسة",
+                "priceYER": 54100
+            },
+            {
+                "amount": "11,785 ماسة",
+                "priceYER": 81150
+            },
+            {
+                "amount": "19,642 ماسة",
+                "priceYER": 135200
+            }
+        ]
+    },
+    {
+        "id": "revenge_of_sultans",
+        "name": "Revenge of Sultans",
+        "nameAr": "انتقام السلاطين",
+        "icon": "imgs/revengeofsultans.png",
+        "description": "قم ببناء إمبراطوريتك وتجهيز جيوشك بشحن ذهب انتقام السلاطين (Revenge of Sultans) الآن، واحصل على الموارد اللازمة لتصبح السلطان الأقوى في عالم الحروب.",
+        "type": "game",
+        "packages": [
+            {
+                "amount": "10 عملة سلطانية",
+                "priceYER": 500
+            },
+            {
+                "amount": "20 عملة سلطانية",
+                "priceYER": 1000
+            },
+            {
+                "amount": "30 عملة سلطانية",
+                "priceYER": 1500
+            },
+            {
+                "amount": "40 عملة سلطانية",
+                "priceYER": 2000
+            },
+            {
+                "amount": "50 عملة سلطانية",
+                "priceYER": 2500
+            },
+            {
+                "amount": "100 عملة سلطانية",
+                "priceYER": 5000
+            },
+            {
+                "amount": "200 عملة سلطانية",
+                "priceYER": 10000
+            },
+            {
+                "amount": "500 عملة سلطانية",
+                "priceYER": 25000
+            },
+            {
+                "amount": "1,000 عملة سلطانية",
+                "priceYER": 49950
+            }
+        ]
+    },
+    {
+        "id": "party_star_salary",
+        "name": "Party Star Salary Service",
+        "nameAr": "خدمة الراتب لبرنامج بارتي ستار",
+        "icon": "imgs/partystar.png",
+        "description": "خدمة سحب الراتب وشرح الآلية لبرنامج بارتي ستار",
+        "note": "⚠️ عمليات السحب متوفرة لهذا البرنامج طوال الأسبوع عدا السبت والأحد",
+        "type": "salary",
+        "withdrawLink": "TUKu4qEjQfHJi4F5dmQ3Ae6m9JsWVeWtx8",
+        "explanationLink": "https://www.instagram.com/reel/DT6Uk-4jXx_/?igsh=NjNmNHBlOHhyNTFx"
+    },
+    {
+        "id": "majlis_salary",
+        "name": "Majlis Salary Service",
+        "nameAr": "خدمة الراتب لبرنامج مجلس",
+        "icon": "imgs/majlis.png",
+        "description": "خدمة سحب الراتب وشرح الآلية لبرنامج مجلس",
+        "note": "⚠️ عمليات السحب متوفرة لهذا البرنامج طوال الأسبوع عدا السبت والأحد",
+        "type": "salary",
+        "withdrawLink": "TUKu4qEjQfHJi4F5dmQ3Ae6m9JsWVeWtx8"
+    },
+    {
+        "id": "habi_salary",
+        "name": "Habi Salary Service",
+        "nameAr": "خدمة الراتب لبرنامج هبي",
+        "icon": "imgs/habi.png",
+        "description": "خدمة سحب الراتب وشرح الآلية لبرنامج هبي",
+        "note": "⚠️ عمليات السحب متوفرة لهذا البرنامج طوال الأسبوع عدا السبت والأحد",
+        "type": "salary",
+        "withdrawLink": "TUKu4qEjQfHJi4F5dmQ3Ae6m9JsWVeWtx8"
+    },
+    {
+        "id": "super_meet_salary",
+        "name": "Super Meet Salary Service",
+        "nameAr": "خدمة الراتب لبرنامج سوبر ميت",
+        "icon": "imgs/supermeet.png",
+        "description": "خدمة سحب الراتب وشرح الآلية لبرنامج سوبر ميت",
+        "type": "salary",
+        "withdrawLink": "TUKu4qEjQfHJi4F5dmQ3Ae6m9JsWVeWtx8",
+        "explanationLink": "https://www.instagram.com/reel/DT-2fgjDWKS/?igsh=eHcxemZzajV0ZmZ4"
+    }
+]
